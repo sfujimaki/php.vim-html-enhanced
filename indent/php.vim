@@ -24,8 +24,7 @@
 
 " Options: 
 let php_noindent_switch=0    " set this to '1' to not try to indent switch/case statements
-set sw=3                     " default shiftwidth of 3 spaces
-
+set sw=2
 
 if exists("b:did_indent")
 	finish
